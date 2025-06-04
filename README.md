@@ -1,4 +1,5 @@
 HEAD
+HEAD
 # CineVerse
 # React + Vite
 
@@ -13,3 +14,6 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 0c9620e (save)
+
+# CineVerse
+aa74e0751bb2c2902d7df8ddca06f4863dba0ae7
