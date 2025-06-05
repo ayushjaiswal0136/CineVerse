@@ -87,7 +87,7 @@ function NavBar() {
 
         <div className="navbar-social">
           <a
-            href="https://github.com/Astroash2001"
+            href="https://github.com/ayushjaiswal0136"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -95,14 +95,14 @@ function NavBar() {
             <FaGithub />
           </a>
           <a
-            href="https://x.com/AVINASH2002ASH"
+            href="https://x.com/ayushj0310"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Twitter"
           >
             <FaTwitter />
           </a>
-          <a href="mailto:avinashsingh2003ash@gmail.com" aria-label="Email">
+          <a href="mailto:ayushjaiswalaj0987@gmail.com" aria-label="Email">
             <FaEnvelope />
           </a>
         </div>
@@ -146,20 +146,20 @@ function NavBar() {
 
           <div className="mobile-menu-social">
             <a
-              href="https://github.com/Astroash2001"
+              href="https://github.com/ayushjaiswal0136"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaGithub /> GitHub
             </a>
             <a
-              href="https://x.com/AVINASH2002ASH"
+              href="https://x.com/ayushj0310"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaTwitter /> Twitter
             </a>
-            <a href="mailto:avinashsingh2003ash@gmail.com">
+            <a href="mailto:ayushjaiswalaj0987@gmail.com">
               <FaEnvelope /> Email
             </a>
           </div>
