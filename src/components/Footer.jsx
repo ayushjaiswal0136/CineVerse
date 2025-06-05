@@ -37,7 +37,7 @@ const Footer = () => {
             <h4>Connect</h4>
             <div className="social-links">
               <a
-                href="https://github.com/Astroash2001"
+                href="https://github.com/ayushjaiswal0136"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub"
@@ -45,14 +45,14 @@ const Footer = () => {
                 <FaGithub />
               </a>
               <a
-                href="https://x.com/AVINASH2002ASH"
+                href="https://x.com/ayushj0310"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Twitter"
               >
                 <FaTwitter />
               </a>
-              <a href="mailto:avinashsingh2003ash@gmail.com" aria-label="Email">
+              <a href="mailto:ayushjaiswalaj0987@gmail.com" aria-label="Email">
                 <FaEnvelope />
               </a>
             </div>
@@ -72,11 +72,11 @@ const Footer = () => {
         <p className="footer-developer">
           Developed by{" "}
           <a
-            href="https://github.com/Astroash2001"
+            href="https://github.com/ayushjaiswal0136"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Avinash Singh
+            Ayush Jaiswal
           </a>
         </p>
       </div>
